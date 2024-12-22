@@ -4,10 +4,10 @@
 * @version 1.0
 * @description (❁´◡`❁)11
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
-* @updateUrl https://raw.githubusercontent.com/emiberu/I-ve-tried-editing-someone-s-theme-for-Vencord/
+* @updateUrl https://raw.githubusercontent.com/emiberu/NAAT-ByEmi/
 */
 
-@import url(https://raw.githubusercontent.com/emiberu/I-ve-tried-editing-someone-s-theme-for-Vencord/refs/heads/emiberu-patch-1/naat-css-raw);
+@import url(https://raw.githubusercontent.com/emiberu/NAAT-ByEmi/refs/heads/main/naat-css-raw);
 
 /* Any images you use MUST end with .jpg or .png or any other image extension */
 
