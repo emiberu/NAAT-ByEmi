@@ -25,7 +25,7 @@
   /*
     Main Theme Transparency
   */
-  --theme-transparency: rgba(0, 0, 0, 0.5);
+  --theme-transparency: rgba(0, 0, 0, 0.8);
 
   /*
     Home Icon Image
@@ -56,7 +56,7 @@
   */
   --font-size: 100%;
 
-    /*
+  /*
     Mention colors
   */
   --mention-color: rgba(250, 166, 26, 0.05);
@@ -66,13 +66,13 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(87, 135, 189);
 
   /*
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: rainbow;
+  --unread-server-animation: none;
 
   /*
     Video / Screen share buttons
