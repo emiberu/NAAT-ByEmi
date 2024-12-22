@@ -2,12 +2,12 @@
 * @name NAAT (Emi's Edit)
 * @author emiberu
 * @version 1.0
-* @description (❁´◡`❁)11
+* @description (❁´◡`❁)1
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/emiberu/NAAT-ByEmi/NAAT-ByEmi.theme.css
 */
 
-@import url(https://raw.githubusercontent.com/emiberu/NAAT-ByEmi/refs/heads/main/naat-css-raw);
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
 
 /* Any images you use MUST end with .jpg or .png or any other image extension */
 
@@ -49,7 +49,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 62px;
+  --server-listing-width: 69px;
 
   /*
     Font Size
