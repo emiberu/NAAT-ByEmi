@@ -56,7 +56,7 @@
   */
   --font-size: 100%;
 
-  /*
+    /*
     Mention colors
   */
   --mention-color: rgba(250, 166, 26, 0.05);
@@ -66,13 +66,13 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(87, 135, 189);
+  --category-hover-color: rgb(60, 202, 138);
 
   /*
     Change the unread server animation.
     Replace it with "none" in order to remove any animations and use the main color instead
   */
-  --unread-server-animation: none;
+  --unread-server-animation: rainbow;
 
   /*
     Video / Screen share buttons
