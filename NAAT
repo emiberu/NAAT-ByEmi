@@ -20,7 +20,7 @@
   /*
     Main Theme Color
   */
-  --main-theme-color: rgb(67, 181, 129);
+  --main-theme-color: rgb(87, 135, 189)
 
   /*
     Main Theme Transparency
@@ -66,7 +66,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(87, 135, 189);
 
   /*
     Change the unread server animation.
